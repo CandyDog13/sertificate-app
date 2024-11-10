@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.00ce7877.css",
-    "main.js": "/static/js/main.44fa42f1.js",
-    "static/js/453.9b6e2b5b.chunk.js": "/static/js/453.9b6e2b5b.chunk.js",
-    "static/media/main-bg-pic.jpg": "/static/media/main-bg-pic.5b6f99625c9be875088d.jpg",
-    "index.html": "/index.html",
-    "main.00ce7877.css.map": "/static/css/main.00ce7877.css.map",
-    "main.44fa42f1.js.map": "/static/js/main.44fa42f1.js.map",
-    "453.9b6e2b5b.chunk.js.map": "/static/js/453.9b6e2b5b.chunk.js.map"
+    "main.css": "/sertificate-app/static/css/main.e2269c46.css",
+    "main.js": "/sertificate-app/static/js/main.88d7cfdc.js",
+    "static/js/453.9b6e2b5b.chunk.js": "/sertificate-app/static/js/453.9b6e2b5b.chunk.js",
+    "static/media/main-bg-pic.jpg": "/sertificate-app/static/media/main-bg-pic.5b6f99625c9be875088d.jpg",
+    "index.html": "/sertificate-app/index.html",
+    "main.e2269c46.css.map": "/sertificate-app/static/css/main.e2269c46.css.map",
+    "main.88d7cfdc.js.map": "/sertificate-app/static/js/main.88d7cfdc.js.map",
+    "453.9b6e2b5b.chunk.js.map": "/sertificate-app/static/js/453.9b6e2b5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00ce7877.css",
-    "static/js/main.44fa42f1.js"
+    "static/css/main.e2269c46.css",
+    "static/js/main.88d7cfdc.js"
   ]
 }
