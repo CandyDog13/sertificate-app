@@ -1,0 +1,76 @@
+/* Form container styles */
+.form_container {
+    box-sizing: border-box;
+    /* margin: 0 auto; */
+    /* padding: 20px; */
+    width: 100%;
+  }
+  
+  /* Form group for each input field */
+  .form_group {
+    margin-bottom: 20px;
+  }
+  
+  /* Labels for inputs */
+  .form_label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  /* Container that wraps the input and error message */
+  .input_container {
+    position: relative;
+  }
+  
+  /* Input fields and textarea */
+  .form_input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 5px; /* Adds space between the input and error */
+  }
+  
+  /* Error message styling */
+  .error_message {
+    color: #d9534f;
+    font-size: 12px;
+    position: absolute;
+    top: 100%;  /* Positions the error message directly below the input */
+    left: 0;
+    width: 100%;
+    padding-left: 5px;
+    margin-top: 2px;
+  }
+  
+  /* Highlighting the input with errors */
+  .input_error {
+    border-color: #d9534f;
+  }
+  
+  /* Submit button styles */
+  .submit_button {
+    width: 100%;
+    padding: 12px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  /* Submit button hover effect */
+  .submit_button:hover {
+    background-color: #4CAF50D5;
+  }
+
+  .buttons_box {
+    display: flex;
+    justify-content: space-between;
+  }
+  
