@@ -68,3 +68,20 @@
   font-family: 'Inter', sans-serif;
   font-size: 20px;
 }
+
+@media screen and (max-width: 500px) {
+  main_content {
+    min-height: 300px;
+    min-width: 200px;
+    padding: 10px;
+    gap: 10px;
+  }
+
+  .pay_button {
+    font-size: 15px;
+  }
+
+  .main_content_form {
+    min-width: 300px;
+  }
+}
